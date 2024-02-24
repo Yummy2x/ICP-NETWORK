@@ -22,7 +22,7 @@
   "defaults": {
     "build": {
       "args": "",
-      "packtool": ""
+      "packtool": "",
     }
   },
   "output_env_file": ".env",
