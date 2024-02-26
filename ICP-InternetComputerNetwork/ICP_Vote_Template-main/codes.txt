@@ -14,7 +14,7 @@
                 </div>
             </div> : (
                 <div className="grid place-items-center mt-20">
-                    {/* <Instructions /> */}
+                    {/* <Instructions > */}
                 </div>
             )}
             <div className="bg-black">
