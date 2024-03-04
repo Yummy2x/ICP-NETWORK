@@ -12,7 +12,7 @@ const frontendDirectory = "final_project_frontend";
 const frontend_entry = path.join("src", frontendDirectory, "src", "index.html");
 
 module.exports = {
-  target: "web",
+  target: "web.",
   mode: isDevelopment ? "development" : "production",
   entry: {
     // The frontend.entrypoint points to the HTML file for this build, so we need
