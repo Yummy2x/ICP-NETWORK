@@ -1,4 +1,4 @@
 [work-space]
 members = [
-    "src/final_project_backend",
+    "src/final_project_backend"
 ]
